@@ -1,5 +1,14 @@
-EPOCHS 3
-CAFFE framework
-AlexNET architecture
+Platform = DIGITS
+Epochs = 3
+Framework = CAFFE
+Architecture = AlexNET
 
-Job directory in DIGITS /dli/data/digits/20200514-092522-38e6
+Filepath to Job directory = /dli/data/digits/20200514-092522-38e6
+
+Filepath to Architecture = /dli/data/digits/20200514-092522-38e6/deploy.prototxt
+
+Filepath to weights = /dli/data/digits/20200514-092522-38e6/snapshot_iter_54.caffemodel
+
+Filepath to test images  =  /dli/data/whale/data/train/face/w_1.jpg
+                            /dli/data/whale/data/train/face/w_1.jpg
+               
