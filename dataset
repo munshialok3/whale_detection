@@ -1,3 +1,7 @@
 The dataset is located at https://tinyurl.com/y762p5tm
 Dataset size is 645 MB
 This dataset contains 6814 training images and 2272 validation images seperated in 2 classes
+
+Dataset path used in DIGITS /dli/data/whale/data/train
+
+Dataset job directory used in DIGITS /dli/data/digits/20200514-085933-e186
